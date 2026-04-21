@@ -46,3 +46,14 @@ The code serves as a practical demonstration of several fundamental Java concept
 --- 
 
 
+## Project Structure
+  - **Logic (MorseCodeConverter.java):** Contains the primary conversion methods (convertTextToMorse, convertMorseToText) and the static lookup maps.
+
+  - **Validation:** Includes helper methods like isValidMorseCode and isValidText to prevent runtime errors during processing.
+
+  - **UI (Main Method):** The entry point that manages the console menu and user interaction.
+
+---
+
+
+## Output
