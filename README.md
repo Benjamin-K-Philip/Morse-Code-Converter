@@ -57,5 +57,5 @@ The code serves as a practical demonstration of several fundamental Java concept
 
 
 ## Output
-<img width="1022" height="375" alt="image" src="https://github.com/user-attachments/assets/a251fa9a-5439-43b4-8511-5f6f1c863d57" />
+<img width="1017" height="373" alt="image" src="https://github.com/user-attachments/assets/fba665d3-5b30-407d-ae02-701dfd1b3ea8" />
 <img width="1019" height="495" alt="image" src="https://github.com/user-attachments/assets/3fe24354-f6b4-40f2-8c73-d67518a08e23" />
